@@ -10,3 +10,5 @@ The model is trained on movie-corpus dataset
 Requirements:
   1. pytorch latest version
   2. the data set in this link https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
+
+###Put the extracted data into the project directory i.e. /data/movie-corpus for using the data
